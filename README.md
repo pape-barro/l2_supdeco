@@ -7,6 +7,7 @@
  
 ``` - Evaluation: ```
  * Contrôles TP ;
+ * Devoir Maison
  * Examen  ́ecrit ;
  
 ``` - Outils de travail: ```
@@ -22,4 +23,4 @@
  3. [`C3: Structures de contrôles`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap3.pdf) - ``` 06 Décembre 2022 ``` ;
  4. [`C4: Tableaux`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap4.pdf) - ``` 07 Décembre 2022 ``` ;
  5. [`C5: Tri d’un travaux, recherche d’un élément`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap5.pdf) - ``` 14 Décembre 2022 ``` ;
- 6. [`C6: Pointeurs`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap5.pdf) - ``` 16 Décembre 2022 ``` ;
+ 6. [`C6: Pointeurs`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap6.pdf) - ``` 16 Décembre 2022 ``` ;
